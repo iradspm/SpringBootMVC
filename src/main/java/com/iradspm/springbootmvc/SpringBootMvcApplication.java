@@ -1,3 +1,4 @@
+/*Dependencies used for this project are : Spring boot dev tools, spring web and thymeleaf*/
 package com.iradspm.springbootmvc;
 
 import org.springframework.boot.SpringApplication;
